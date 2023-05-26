@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "xmasTree", "xmasTree\xmasTree.csproj", "{DBBED8A5-65FF-4884-A89C-C0761FA95759}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "boxes", "boxes\boxes.csproj", "{ED70FDDA-0EF0-4C8F-975A-70C432DAC936}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "calculator", "calculator\calculator.csproj", "{88E49F83-667D-4A09-B61F-F7CFFADE77C8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DBBED8A5-65FF-4884-A89C-C0761FA95759}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBBED8A5-65FF-4884-A89C-C0761FA95759}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBBED8A5-65FF-4884-A89C-C0761FA95759}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBBED8A5-65FF-4884-A89C-C0761FA95759}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED70FDDA-0EF0-4C8F-975A-70C432DAC936}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED70FDDA-0EF0-4C8F-975A-70C432DAC936}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED70FDDA-0EF0-4C8F-975A-70C432DAC936}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED70FDDA-0EF0-4C8F-975A-70C432DAC936}.Release|Any CPU.Build.0 = Release|Any CPU
+		{88E49F83-667D-4A09-B61F-F7CFFADE77C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88E49F83-667D-4A09-B61F-F7CFFADE77C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88E49F83-667D-4A09-B61F-F7CFFADE77C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88E49F83-667D-4A09-B61F-F7CFFADE77C8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F4E5A92C-8C49-44F2-B198-1221CF7FC499}
+	EndGlobalSection
+EndGlobal
